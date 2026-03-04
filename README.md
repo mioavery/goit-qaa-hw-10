@@ -2,11 +2,11 @@
 
 ## <p align="center">Main goal</p>
 
-The main goal was to make a frontend site of a webpage that searches country
+The main goal was to make a very simple webpage that searches country
 info using their common name using API
 
 The page is hosted using GitHub Pages: <br>
-https://mioluczak.github.io/goit-qaa-hw-10/
+https://mioavery.github.io/goit-qaa-hw-10/
 
 ## <p align="center">Resources used</p>
 
